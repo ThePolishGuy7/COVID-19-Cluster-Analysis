@@ -1,6 +1,6 @@
 # COVID-19 Cluster Analysis
 
-**[Opis w języku polskim]**
+**Opis w języku polskim**
 
 Ten projekt został stworzony jako praca zaliczeniowa w ramach przedmiotu **Eksploracyjna Analiza Danych** na studiach. Jego głównym celem było przeprowadzenie hierarchicznej analizy skupień na wczesnych danych dotyczących pandemii COVID-19 (od 11 lutego do 22 marca 2020 roku).
 
@@ -19,7 +19,7 @@ Analiza została przeprowadzona w języku R i obejmuje pełny proces badawczy:
 
 ---
 
-**[English Description]**
+**English Description**
 
 This project was created as a final assignment for the **Exploratory Data Analysis** university course. The main objective was to perform a hierarchical cluster analysis on early COVID-19 pandemic data (covering the period from February 11 to March 22, 2020).
 
